@@ -21,7 +21,7 @@ It is built using only **HTML and CSS**, focusing on layout design, responsive s
 ---
 
 ## 📸 Screenshot
-![Instagram Login Clone](Instagram-login.jpg)
+![Instagram Login Clone](Screenshots/Instagram-login.jpg)
 
 ---
 
